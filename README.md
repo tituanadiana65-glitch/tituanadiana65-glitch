@@ -58,12 +58,5 @@ Estudio el **cuarto semestre** de Ingeniería en Software en la **Universidad T�
 
 ---
 
-## 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.correo@uta.edu.ec)
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://TU_USUARIO.github.io)
-
----
 
 ⭐ *"Aprender, construir y mejorar cada día."*
